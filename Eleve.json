@@ -1,0 +1,14 @@
+{
+  "eleves": [
+    {
+      "nom": "Kilian",
+      "classe": "CDA34A",
+      "password": "azerty"
+    },
+    {
+      "nom": "Bernard",
+      "classe": "CDA",
+      "password": "2355"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>reservation</title>
+    <a href="./index.html">page d'accueil</a>
+    <script src="./dist/index.js" defer></script>
+  </head>
+  <body>
+    <form id="reservation">
+      <label for="">Choix de l'heure</label>
+      <input type="datetime-local" name="heure" id="heure" value="" />
+      <label for="">choix du repas</label>
+      <select name="repas" id="repas">
+        <option value="Lasagnes">Lasagnes</option>
+        <option value="magret de canard">magret de canard</option>
+        <option value="tomates farcies">tomates farcies</option>
+        <option value="tiramisu">tiramisu</option>
+      </select>
+
+      <button type="submit" id="validerRepas">valider mon choix</button>
+    </form>
+  </body>
+</html>

@@ -1,0 +1,22 @@
+{
+	"name": "stats_project",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start:build": "esbuild src/index.ts --bundle --outfile=dist/index.js --watch",
+		"start": "concurrently npm:start:*"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"type": "commonjs",
+	"dependencies": {
+		"@types/node": "^22.13.13",
+		"axios": "^1.9.0",
+		"concurrently": "^9.1.2",
+		"esbuild": "^0.25.1",
+		"express": "^5.1.0",
+		"nodemon": "^3.1.9"
+	}
+}

@@ -1,0 +1,75 @@
+{
+  "reservations": [
+    {
+      "date": "2025-05-23T07:35:52.321Z",
+      "menu": {
+        "liste_plats": [
+          {
+            "nom": "Tiramisu",
+            "type": "Dessert",
+            "calorie": 1
+          }
+        ]
+      },
+      "eleve": {
+        "nom": "Kilian",
+        "classe": "CDA34A"
+      },
+      "statut": "Refusée."
+    },
+    {
+      "date": "2025-05-26T10:02:00.000Z",
+      "menu": {
+        "liste_plats": [
+          {
+            "nom": "tiramisu",
+            "type": "entrée",
+            "calorie": 25
+          }
+        ]
+      },
+      "eleve": {
+        "nom": "Toto",
+        "classe": "CDA",
+        "service_reservation": {}
+      },
+      "statut": "En attente"
+    },
+    {
+      "date": "2025-05-26T10:02:00.000Z",
+      "menu": {
+        "liste_plats": [
+          {
+            "nom": "tiramisu",
+            "type": "entrée",
+            "calorie": 25
+          }
+        ]
+      },
+      "eleve": {
+        "nom": "Toto",
+        "classe": "CDA",
+        "service_reservation": {}
+      },
+      "statut": "En attente"
+    },
+    {
+      "date": "2025-05-29T10:00:00.000Z",
+      "menu": {
+        "liste_plats": [
+          {
+            "nom": "tiramisu",
+            "type": "entrée",
+            "calorie": 25
+          }
+        ]
+      },
+      "eleve": {
+        "nom": "Bernard",
+        "classe": "CDA",
+        "service_reservation": {}
+      },
+      "statut": "En attente"
+    }
+  ]
+}

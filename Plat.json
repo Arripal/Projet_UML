@@ -1,0 +1,24 @@
+{
+  "plats": [
+    {
+      "nom": "Lasagnes",
+      "type": "Plat de résistance",
+      "calorie": 400
+    },
+    {
+      "nom": "Magret de canard",
+      "type": "Plat de résistance",
+      "calorie": 0
+    },
+    {
+      "nom": "Tomates farcies",
+      "type": "Plat de résistance",
+      "calorie": 1
+    },
+    {
+      "nom": "Tiramisu",
+      "type": "Dessert",
+      "calorie": 1
+    }
+  ]
+}
